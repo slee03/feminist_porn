@@ -1,0 +1,90 @@
+.title {
+	font-family: playfairdisplay;
+	font-size: 60px;
+}
+p {
+	font-family: alice;
+	font-size: 18px;
+	color: #2D2417;
+}
+
+h1 {
+	font-family: 'PT serif', serif;
+	color: #3399cc;
+	font-weight: 2px;
+	font-size: 120px;
+    text-shadow:
+    -2px -2px 0 #336699,
+    2px -2px 0 #336699,
+    -2px 2px 0 #336699,
+    2px 2px 0 #336699;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+}
+
+
+
+#women {
+	line-height: 100px;
+	/*padding-left: 20%;*/
+}
+
+#on {
+	line-height: 100px;
+	/*padding-left: 48%;*/
+
+}
+
+#top {
+	line-height: 100px;
+	/*padding-left: 56%;*/
+	padding-bottom: 10px;
+}
+h2 {
+	font-family: 'PT serif';
+	color: #0B447B;
+	font-weight: 
+}
+
+h6 {
+	font-family: 'PT serif';
+	color: #2D2417;
+	font-style: italic;
+}
+
+blockquote {
+	font-family: 'PT serif';
+	color: #0B447B;
+	font-size: 20px;
+}
+
+h4 {
+	font-family: 'PT serif';
+	color: #2D2417;
+}
+h5 {
+	font-family: alice;
+	color: #496595;
+	font-style: italic;
+}
+
+#bra {
+	text-align: center;
+}
+
+#graph1 {
+	background-color: #dceeff;
+	border-style: none;
+}
+
+#graph2 {
+	background-color: #dceeff;
+	border-style: none;
+}
+
+cite {
+	font-family: 'PT serif';
+	font-size: 16px;
+}
